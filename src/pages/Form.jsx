@@ -110,7 +110,7 @@ function Form() {
       </Box>
 
       {/* Botão de Enviar Comunicado */}
-      <Box display="flex" justifyContent="center" marginTop={4}>
+      <Box display="flex" justifyContent="right" marginTop={4}>
         <Button variant="contained" color="primary" size="large">
           Enviar Comunicado
         </Button>
